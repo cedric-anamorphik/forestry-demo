@@ -10,5 +10,9 @@ menu:
     weight: 2
   navigation:
     identifier: _projects
+    url: "/projects/"
     weight: 3
 ---
+## This is a test
+
+![](/uploads/2018/02/17/college-building.jpg)
